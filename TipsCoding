@@ -1,0 +1,6 @@
+1，合并url
+#from urllib import parse
+#parse.urljoin()
+
+
+2，创建文件夹和删除文件、文件夹
