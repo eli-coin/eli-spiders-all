@@ -1,5 +1,6 @@
-import subprocess
-
+# import subprocess
+import sys
+import you_get
 
 def ReadUrlsFile(fileName):
     """
@@ -17,10 +18,14 @@ def ReadUrlsFile(fileName):
 
 def DownUseYouGet(url):
     try:
-        subprocess.getoutput("you-get " + url)
+        # subprocess.getoutput("you-get " + url)
         # os.popen("you-get " + url).read()
-    except:
-        pass
+        sys.argv = ['you-get', url.strip()]
+        print(sys.argv)
+        you_get.main() #使用you_get.main()可以在脚本运行时显示you-get的下载情况
+    except Exception as e:
+        print("下载异常，结束下载......",e)
+        exit(-1)
 
 
 def Engine(fileName):
