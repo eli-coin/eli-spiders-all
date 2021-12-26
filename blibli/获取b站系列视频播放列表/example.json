@@ -1,0 +1,1085 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": [
+    {
+      "cid": 48614980,
+      "page": 1,
+      "from": "vupload",
+      "part": "基础知识01",
+      "duration": 1202,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615020,
+      "page": 2,
+      "from": "vupload",
+      "part": "基础知识02",
+      "duration": 1172,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615043,
+      "page": 3,
+      "from": "vupload",
+      "part": "基础知识03",
+      "duration": 1086,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615067,
+      "page": 4,
+      "from": "vupload",
+      "part": "基础知识04",
+      "duration": 530,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615084,
+      "page": 5,
+      "from": "vupload",
+      "part": "基础知识05",
+      "duration": 1173,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615167,
+      "page": 6,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）01",
+      "duration": 1153,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615207,
+      "page": 7,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）02",
+      "duration": 1407,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615215,
+      "page": 8,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）03",
+      "duration": 1210,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615249,
+      "page": 9,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）04",
+      "duration": 693,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615265,
+      "page": 10,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）05",
+      "duration": 1481,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615287,
+      "page": 11,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）06",
+      "duration": 762,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615315,
+      "page": 12,
+      "from": "vupload",
+      "part": "寄存器（CPU工作原理）07",
+      "duration": 876,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615343,
+      "page": 13,
+      "from": "vupload",
+      "part": "寄存器（内存访问）01",
+      "duration": 1326,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615383,
+      "page": 14,
+      "from": "vupload",
+      "part": "寄存器（内存访问）02",
+      "duration": 1038,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615410,
+      "page": 15,
+      "from": "vupload",
+      "part": "寄存器（内存访问）03",
+      "duration": 1351,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615434,
+      "page": 16,
+      "from": "vupload",
+      "part": "寄存器（内存访问）04",
+      "duration": 1573,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615517,
+      "page": 17,
+      "from": "vupload",
+      "part": "寄存器（内存访问）05",
+      "duration": 1125,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615551,
+      "page": 18,
+      "from": "vupload",
+      "part": "寄存器（内存访问）06",
+      "duration": 1539,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615563,
+      "page": 19,
+      "from": "vupload",
+      "part": "寄存器（内存访问）07",
+      "duration": 1654,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48615577,
+      "page": 20,
+      "from": "vupload",
+      "part": "第一个程序01",
+      "duration": 1248,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618179,
+      "page": 21,
+      "from": "vupload",
+      "part": "第一个程序02",
+      "duration": 1769,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618196,
+      "page": 22,
+      "from": "vupload",
+      "part": "第一个程序03",
+      "duration": 1724,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618220,
+      "page": 23,
+      "from": "vupload",
+      "part": "[BX]和loop指令01",
+      "duration": 1928,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618269,
+      "page": 24,
+      "from": "vupload",
+      "part": "[BX]和loop指令02",
+      "duration": 1330,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618307,
+      "page": 25,
+      "from": "vupload",
+      "part": "[BX]和loop指令03",
+      "duration": 1782,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618343,
+      "page": 26,
+      "from": "vupload",
+      "part": "[BX]和loop指令026",
+      "duration": 1160,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618373,
+      "page": 27,
+      "from": "vupload",
+      "part": "[BX]和loop指令05",
+      "duration": 1224,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618390,
+      "page": 28,
+      "from": "vupload",
+      "part": "[BX]和loop指令06",
+      "duration": 1267,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618410,
+      "page": 29,
+      "from": "vupload",
+      "part": "包含多个段的程序01",
+      "duration": 1387,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618433,
+      "page": 30,
+      "from": "vupload",
+      "part": "包含多个段的程序02",
+      "duration": 1514,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618462,
+      "page": 31,
+      "from": "vupload",
+      "part": "包含多个段的程序03",
+      "duration": 1410,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618496,
+      "page": 32,
+      "from": "vupload",
+      "part": "更灵活定位内存地址01",
+      "duration": 1893,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618524,
+      "page": 33,
+      "from": "vupload",
+      "part": "更灵活定位内存地址02",
+      "duration": 1402,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618562,
+      "page": 34,
+      "from": "vupload",
+      "part": "更灵活定位内存地址03",
+      "duration": 1539,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618593,
+      "page": 35,
+      "from": "vupload",
+      "part": "更灵活定位内存地址04",
+      "duration": 1319,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618624,
+      "page": 36,
+      "from": "vupload",
+      "part": "更灵活定位内存地址05",
+      "duration": 1396,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618641,
+      "page": 37,
+      "from": "vupload",
+      "part": "更灵活定位内存地址06",
+      "duration": 706,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618678,
+      "page": 38,
+      "from": "vupload",
+      "part": "数据处理的两个基本问题01",
+      "duration": 1459,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618703,
+      "page": 39,
+      "from": "vupload",
+      "part": "数据处理的两个基本问题02",
+      "duration": 1326,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618725,
+      "page": 40,
+      "from": "vupload",
+      "part": "数据处理的两个基本问题03",
+      "duration": 1020,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618748,
+      "page": 41,
+      "from": "vupload",
+      "part": "数据处理的两个基本问题04",
+      "duration": 1473,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618814,
+      "page": 42,
+      "from": "vupload",
+      "part": "寻址方式在结构化数据访问中的应用",
+      "duration": 1345,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618838,
+      "page": 43,
+      "from": "vupload",
+      "part": "转移指令的原理01",
+      "duration": 1864,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618860,
+      "page": 44,
+      "from": "vupload",
+      "part": "转移指令的原理02",
+      "duration": 1010,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618896,
+      "page": 45,
+      "from": "vupload",
+      "part": "转移指令的原理03",
+      "duration": 515,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618915,
+      "page": 46,
+      "from": "vupload",
+      "part": "转移指令的原理04",
+      "duration": 700,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618926,
+      "page": 47,
+      "from": "vupload",
+      "part": "实验八、实验九详细讲解",
+      "duration": 2063,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48618942,
+      "page": 48,
+      "from": "vupload",
+      "part": "Call和ret指令01",
+      "duration": 1077,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619051,
+      "page": 49,
+      "from": "vupload",
+      "part": "Call和ret指令02",
+      "duration": 774,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619108,
+      "page": 50,
+      "from": "vupload",
+      "part": "Call和ret指令03",
+      "duration": 1407,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619116,
+      "page": 51,
+      "from": "vupload",
+      "part": "Call和ret指令04",
+      "duration": 1669,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619148,
+      "page": 52,
+      "from": "vupload",
+      "part": "Call和ret指令05",
+      "duration": 1469,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619179,
+      "page": 53,
+      "from": "vupload",
+      "part": "Call和ret指令06",
+      "duration": 669,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619216,
+      "page": 54,
+      "from": "vupload",
+      "part": "标志寄存器01",
+      "duration": 1188,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619239,
+      "page": 55,
+      "from": "vupload",
+      "part": "标志寄存器02",
+      "duration": 1857,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619262,
+      "page": 56,
+      "from": "vupload",
+      "part": "标志寄存器03",
+      "duration": 1045,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619306,
+      "page": 57,
+      "from": "vupload",
+      "part": "标志寄存器04",
+      "duration": 809,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619316,
+      "page": 58,
+      "from": "vupload",
+      "part": "标志寄存器05",
+      "duration": 1024,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619398,
+      "page": 59,
+      "from": "vupload",
+      "part": "标志寄存器06",
+      "duration": 675,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619418,
+      "page": 60,
+      "from": "vupload",
+      "part": "内中断01",
+      "duration": 1248,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619430,
+      "page": 61,
+      "from": "vupload",
+      "part": "内中断02",
+      "duration": 1070,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619453,
+      "page": 62,
+      "from": "vupload",
+      "part": "内中断03",
+      "duration": 995,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619470,
+      "page": 63,
+      "from": "vupload",
+      "part": "内中断04",
+      "duration": 590,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619485,
+      "page": 64,
+      "from": "vupload",
+      "part": "int指令01",
+      "duration": 1329,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619495,
+      "page": 65,
+      "from": "vupload",
+      "part": "int指令02",
+      "duration": 1338,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619523,
+      "page": 66,
+      "from": "vupload",
+      "part": "int指令03",
+      "duration": 963,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619544,
+      "page": 67,
+      "from": "vupload",
+      "part": "端口01",
+      "duration": 1192,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619564,
+      "page": 68,
+      "from": "vupload",
+      "part": "端口02",
+      "duration": 887,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619573,
+      "page": 69,
+      "from": "vupload",
+      "part": "外中断01",
+      "duration": 1189,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619591,
+      "page": 70,
+      "from": "vupload",
+      "part": "外中断02",
+      "duration": 2063,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619609,
+      "page": 71,
+      "from": "vupload",
+      "part": "外中断03",
+      "duration": 1155,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619653,
+      "page": 72,
+      "from": "vupload",
+      "part": "直接定址表01",
+      "duration": 1083,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619671,
+      "page": 73,
+      "from": "vupload",
+      "part": "直接定址表02",
+      "duration": 1890,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619706,
+      "page": 74,
+      "from": "vupload",
+      "part": "直接定址表03",
+      "duration": 906,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619762,
+      "page": 75,
+      "from": "vupload",
+      "part": "使用BIOS进行键盘输入和磁盘读写01",
+      "duration": 853,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619786,
+      "page": 76,
+      "from": "vupload",
+      "part": "使用BIOS进行键盘输入和磁盘读写02",
+      "duration": 1248,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    },
+    {
+      "cid": 48619804,
+      "page": 77,
+      "from": "vupload",
+      "part": "使用BIOS进行键盘输入和磁盘读写03",
+      "duration": 1804,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 800,
+        "height": 600,
+        "rotate": 0
+      }
+    }
+  ]
+}
