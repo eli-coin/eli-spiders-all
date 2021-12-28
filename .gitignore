@@ -2,4 +2,5 @@
 /wx-article/videos
 /wx-article/audios
 /wx-article/mp3cuts
-*/__pycache__
+/__pycache__
+
