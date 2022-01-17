@@ -24,7 +24,7 @@ ROBOTSTXT_OBEY = True
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-# DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
 # CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # CONCURRENT_REQUESTS_PER_IP = 16
@@ -44,8 +44,10 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 SPIDER_MIDDLEWARES = {
-    'jb51.middlewares.OSHttpProxyMiddleware': 400,
-    'jb51.middlewares.Jb51SpiderMiddleware': 543,
+    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,  # 关闭默认方法
+    'scrapy_fake_useragent.middleware.RandomUserAgentMiddleware': 400,  # 开启第三方库的中间件
+    'jb51.middlewares.OSHttpProxyMiddleware': 500,
+
 }
 
 # Enable or disable downloader middlewares
@@ -65,6 +67,7 @@ SPIDER_MIDDLEWARES = {
 # ITEM_PIPELINES = {
 #    'jb51.pipelines.Jb51Pipeline': 300,
 # }
+
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -86,11 +89,9 @@ SPIDER_MIDDLEWARES = {
 # HTTPCACHE_DIR = 'httpcache'
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-
-PROXIES_HTTP = [
-    "http://proxy.it.taikang.com:8080"
-]
-
-PROXIES_HTTPS = [
-    "https://proxy.it.taikang.com:8080"
-]
+SCHEDULER = "scrapy_redis.scheduler.Scheduler"
+DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
+STATS_CLASS = "scrapy_redis.stats.RedisStatsCollector"
+ITEM_PIPELINES = {
+    'scrapy_redis.pipelines.RedisPipeline': 300
+}

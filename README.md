@@ -1,7 +1,8 @@
 # 爬虫项目集合  
 
 ### blibli b站网络爬虫   
-### del_github_repos 批量删除github 仓库  
+### del_github_repos 批量删除github 仓库 
+### demo_selenium selenium使用小技巧  
 ### HTMLparse 网页解析方式
 ### Scrapy-jb51 脚本之家爬虫
 ### Scrapy-setUA_proxyDemo scrapy设置代理的小Demo

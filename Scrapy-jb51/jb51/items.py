@@ -8,5 +8,8 @@ import scrapy
 
 class Jb51Item(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    title = scrapy.Field()
+    path = scrapy.Field()
+    url = scrapy.Field()
+    context = scrapy.Field()
     pass
